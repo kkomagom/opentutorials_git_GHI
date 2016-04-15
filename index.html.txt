@@ -23,7 +23,12 @@
 			<li>Çù¾÷</li>
 			<li>sync</li>
 			<li>push.egoing</li>
+<<<<<<< .merge_file_a09936
 			<li>conflict.egoing</li>
+=======
+			<li>pull.leezche</li>
+			<li>conflict.leezche</li>
+>>>>>>> .merge_file_a08908
 		</ul>
 	</body>
 </html>
